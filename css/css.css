@@ -1,0 +1,63 @@
+.body {
+    height: 100%;
+    width: 100%;
+}
+
+.Menu-Principal {
+    width: 100%;
+    background-color: #00BFFF;
+    height: 90px;
+}
+.Header1 {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+.Logo {
+    padding: 2px;
+    float: left;
+    width: 74%;
+    height: 36px;
+    position: relative;
+    bottom: 52px;
+}
+.Sites-relacionados ul li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 15px;
+}
+.Sites-relacionados {
+    float: right;
+    bottom: 85px;
+    position: relative;
+}
+.Texto {
+    font-size: 2.3rem;
+    text-align: center;
+    position: relative;
+    right: 175px;
+    top: 18px;
+    font-family: Snell Roundhand, cursive;
+}
+.Segunda-parte {
+    background-color: green;
+    height: 65px;
+    position: relative;
+    top: 1px;
+    width: 100%;
+}
+.Menu ul li {
+  display: inline-block;
+}
+.Menu ul li a {
+    color: rgb(253, 249, 243);
+    text-decoration: none;
+    font-size: 22px;
+    margin-left: 13px;
+    font-family: Snell Roundhand, cursive;
+}
+.Pesquisa {
+    position: relative;
+    left: 1100px;
+    bottom: 30px;
+}
