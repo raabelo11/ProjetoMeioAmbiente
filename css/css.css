@@ -21,6 +21,7 @@
     height: 36px;
     position: relative;
     bottom: 52px;
+    right: 3px;
 }
 .Sites-relacionados ul li {
     display: inline-block;
@@ -36,7 +37,7 @@
     font-size: 2.3rem;
     text-align: center;
     position: relative;
-    right: 175px;
+    right: 210px;
     top: 18px;
     font-family: Snell Roundhand, cursive;
 }
@@ -62,10 +63,11 @@
     font-family: Snell Roundhand, cursive;
     position: relative;
     top: 7px;
+    right: 30px;
 }
 .Pesquisa {
     position: relative;
-    left: 400px;
+    left: 260px;
     bottom: 30px;
     margin: 0 auto;
     float: right;
@@ -85,6 +87,23 @@
 .w-100 {
     width: 100%;
     position: relative;
+    bottom: 220px;
+    margin: 0 auto;
+}
+.w-101 {
+    width: 100%;
+    position: relative;
     bottom: 320px;
     margin: 0 auto;
+}
+.w-102 {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+}
+.Menu {
+    position: relative;
+    margin: 0 auto;
+    width: 980px;
 }
